@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 公開前の記事の原稿
+/docs/article-draft.md
+
+!.env.example
